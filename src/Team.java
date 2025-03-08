@@ -1,37 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Team Class for Team Party Hopping GUI Interface
-// Course:   CS 300 Spring 2025
-//
-// Author:   Prateek Chand
-// Email:    pchand2@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Not Applicable
-// Partner Email:   Not Applicable
-// Partner Lecturer's Name: Not Applicable
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment. X
-//   ___ We have both read and understand the course Pair Programming Policy. X
-//   ___ We have registered our team prior to the team registration deadline. X
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:
-// - TA Yiheng Su helped debug a logic error with the way my id generator was behaving.
-// - TA Ruifeng Xu helped me understand the functionality of selectALL() method and how it is
-//   linked with the Lead Class's mouseReleased() method. He also helped me debug logic error with
-//   the lineUp method and helped me understand the dimensions of the agents in a team
-//
-// Online Sources:
-// - https://canvas.wisc.edu/courses/447785/files/44550502?wrap=1
-// - https://canvas.wisc.edu/courses/447785/quizzes/589093?module_item_id=7928682
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.util.ArrayList;
 
 /**
