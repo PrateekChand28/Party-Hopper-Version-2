@@ -1,34 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Lead Derived Class for Team Party Hopping GUI Interface
-// Course:   CS 300 Spring 2025
-//
-// Author:   Prateek Chand
-// Email:    pchand2@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Not Applicable
-// Partner Email:   Not Applicable
-// Partner Lecturer's Name: Not Applicable
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment. X
-//   ___ We have both read and understand the course Pair Programming Policy. X
-//   ___ We have registered our team prior to the team registration deadline. X
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons: TA Ruifeng Xu helped me understand how the mouseReleased() method is expected to
-// behavior based on different status of the corresponding agents
-//
-// Online Sources:
-// - https://canvas.wisc.edu/courses/447785/files/44550491?wrap=1
-//
-///////////////////////////////////////////////////////////////////////////////
-
-
 /**
  * Models a Team, Lead agent for the CS300 P05 Team Party Hopping project. event Team can have at
  * most one Lead, and clicking on that Team's Lead selects ALL members of the Team at the same time
