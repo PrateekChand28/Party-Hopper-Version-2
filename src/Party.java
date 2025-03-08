@@ -1,32 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Party Class for Team Party Hopping GUI Interface
-// Course:   CS 300 Spring 2025
-//
-// Author:   Prateek Chand
-// Email:    pchand2@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Not Applicable
-// Partner Email:   Not Applicable
-// Partner Lecturer's Name: Not Applicable
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment. X
-//   ___ We have both read and understand the course Pair Programming Policy. X
-//   ___ We have registered our team prior to the team registration deadline. X
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons: Not Used
-//
-// Online Sources:
-// - https://canvas.wisc.edu/courses/447785/files/44551821?wrap=1
-//
-///////////////////////////////////////////////////////////////////////////////
-
 
 /**
  * Models a Party for CS300 P05 Team Party Hopping, similarly to P02. However, unlike P02 we will
