@@ -1,33 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Agent Class for Team Party Hopping GUI Interface
-// Course:   CS 300 Spring 2025
-//
-// Author:   Prateek Chand
-// Email:    pchand2@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Not Applicable
-// Partner Email:   Not Applicable
-// Partner Lecturer's Name: Not Applicable
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment. X
-//   ___ We have both read and understand the course Pair Programming Policy. X
-//   ___ We have registered our team prior to the team registration deadline. X
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons: TA Ben helped me with debugging the logic errors in the isMoving() and drag() methods;
-// he also helped me clear my doubts with how the agents are supposed to move and selected
-//
-// Online Sources:
-// - https://stackoverflow.com/questions/22787032/java-static-variable-and-parameter-with-same-name
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import processing.core.PApplet;
 
 /**
