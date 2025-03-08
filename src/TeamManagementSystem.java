@@ -1,37 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Team Management System for Team Party Hopping GUI Interface
-// Course:   CS 300 Spring 2025
-//
-// Author:   Prateek Chand
-// Email:    pchand2@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    Not Applicable
-// Partner Email:   Not Applicable
-// Partner Lecturer's Name: Not Applicable
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment. X
-//   ___ We have both read and understand the course Pair Programming Policy. X
-//   ___ We have registered our team prior to the team registration deadline. X
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:
-//  - TA Ruifeng Xu helped with understanding the logic of the priority of clickable
-// objects and debugging the mousePressed() method.
-//  - TA Yiheng Su helped with understanding the math behind the bounds of the selection box
-//  - Prof Hobbes suggested me to add print statements in the getAllSelectedAgents() method to
-//  check where the method is failing
-//
-// Online Sources:
-// - https://pages.cs.wisc.edu/~cs302/labs/EclipseTutorial_Processing/Step_03.html
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Random;
